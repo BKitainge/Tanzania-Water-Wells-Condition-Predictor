@@ -8,3 +8,53 @@ We will begin by exploring the dataset and conducting any necessary data cleanin
 Once we have selected the best performing model, we will fine-tune its hyperparameters using techniques such as grid search and cross-validation. Finally, we will use the trained model to make predictions on a holdout dataset and evaluate its performance using metrics such as accuracy, precision, and recall. We will also perform a cost-benefit analysis to determine the potential impact of using the model to prioritize water well repairs.
 
 Overall, this project aims to provide our client with a tool that can help them more effectively allocate their resources towards repairing water wells in rural areas, ultimately improving access to clean drinking water for those who need it most.
+## Column names
+1. date_recorded - The date the row was entered
+
+2. funder - Who funded the well
+
+3. gps_height - Altitude of the well
+
+4. installer - Organization that installed the well
+
+5. longitude - GPS coordinate
+
+6. latitude - GPS coordinate
+
+7. wpt_name - Name of the waterpoint if there is one
+
+8. num_private - Number of private waterpoints
+
+9. basin - Geographic water basin
+
+10. subvillage - Geographic location
+
+11. region - Geographic location
+
+12. region_code - Geographic location
+
+13. district_code - Geographic loc
+
+14. lga - Geographic location
+
+15. ward - Geographic location
+
+16. population - Population around the well
+
+17. public_meeting - True/False
+
+18. recorded_by - Group entering this row of data
+
+19. scheme_management - Who operates the waterpoint
+
+20. scheme_name - Who operates the waterpoint
+
+21. permit - If the waterpoint is permitted
+
+22. construction_year - Year the waterpoint was constructed
+
+23. extraction_type - The kind of extraction the waterpoint uses
+
+24. extraction_type_group - The kind of extraction the waterpoint uses
+
+25 . status_group - Condition of the well
