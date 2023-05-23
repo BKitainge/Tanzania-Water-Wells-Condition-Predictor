@@ -58,3 +58,5 @@ Overall, this project aims to provide our client with a tool that can help them 
 24. extraction_type_group - The kind of extraction the waterpoint uses
 
 25 . status_group - Condition of the well
+# Findings
+The Random Forest algorithm, having the highest precision score of all performed better than the other models and shall be used as the final model The precision score of the model was 66% which means that it was able to precisely determine the status of the waterpoint 66% of the time
