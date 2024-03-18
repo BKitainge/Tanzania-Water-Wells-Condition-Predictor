@@ -1,4 +1,4 @@
-# P-3-project
+# TANZANIA WATER WELLS PROJECT
 ![bh-(1)](https://github.com/BKitainge/P-3-project/assets/123490766/56f3e007-8a08-4c2b-8d72-22a1f03a0ae5)
 # Project Summary: Building a Classifier to Predict Water Well Conditions
 Our client is an NGO focused on locating water wells that need repair in order to provide access to clean drinking water in rural areas. The client has provided us with a dataset containing information on various water wells, including their location, construction date, and various physical measurements such as depth and water volume. The goal of this project is to build a classifier that can predict the condition of a water well based on this information, in order to help the client prioritize which wells to repair first.
